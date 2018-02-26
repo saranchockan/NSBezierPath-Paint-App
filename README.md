@@ -1,8 +1,8 @@
 # Description
 NSBezierPathLine_Paint is a very simple macOS app which allows you to draw lines, rectangle, circle and ovals.
 
-# Code
-The code mainly consists of an array of NSBezierPath's of the different shapes and logic for live drawing through Mouse Events.
+# How does it Work?
+The code mainly consists of an array of NSBezierPath's of the different shapes and manipulation of Mouse Events for live drawing.
 
 # MIT LICENSE
 
